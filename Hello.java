@@ -4,5 +4,6 @@ public class Hello{
 		System.out.println("hello world1");
 		System.out.println("test");
 		//合并分支冲突；
+		//拼写错误;
 	}
 }
